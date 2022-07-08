@@ -1,3 +1,15 @@
+# Notes for Intuit Interview
+
+This application was not wholly completed to the specifications of the task due to time constraint.  Instead of meeting the features, time was taken to bootstrap the appliation using good fundamentals for future expansion.  
+
+Although explained inside of the create-react-app documentation, once the repository has been cloned, please run 
+### `npm install`
+### `npm run start`
+
+While not achieved in the time frame, the next state would be to implement e2e and unit tests (jest was installed but not configured for use due to time)
+
+Thank you for your time!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
