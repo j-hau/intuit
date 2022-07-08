@@ -1,5 +1,13 @@
-const SummaryPage = () => {
-    return <h1>Summary</h1>;
-}
+import React from 'react';
 
-export default SummaryPage;
+import TransactionsTable from '../components/TransactionsTable';
+
+const SummaryPage = () => {
+    return (<div>
+    <h1>Summary Page</h1>
+        <TransactionsTable />
+    </div>
+    );
+}
+  
+  export default SummaryPage;
